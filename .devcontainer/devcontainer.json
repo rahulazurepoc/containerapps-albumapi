@@ -12,6 +12,7 @@
 			"extensions": [
 				"ms-vscode.azurecli",
 				"ms-dotnettools.vscode-dotnet-runtime",
+				"ms-dotnettools.csharp",
 				"ms-azuretools.vscode-bicep",
 				"ms-azuretools.vscode-docker"
 			]
@@ -32,6 +33,7 @@
 		"java": "lts",
 		"maven": "latest",
 		"ruby": "latest",
-		"powershell": "latest"
+		"powershell": "latest",
+		"docker-from-docker": "latest"
 	}
 }
